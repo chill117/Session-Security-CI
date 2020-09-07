@@ -1,5 +1,5 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+// hi Charlie, do you want to come to the dark side?
 $config = array();
 
 $config['session_key_length'] 	= 40;
